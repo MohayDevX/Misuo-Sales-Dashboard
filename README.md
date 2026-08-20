@@ -33,4 +33,4 @@ Built entirely using *Microsoft Excel (Pivot Tables & Pivot Charts)*, the dashbo
 * *Excel Slicers:* Interactive filtering for a user-friendly analytical experience.
 *
 ## Dashboard Preview
- [Misuo Sales Dashboard](misuo-dashboard.gif)
+ [Misuo Sales Dashboard](https://github.com/MohayDevX/Misuo-Sales-Dashboard/blob/main/misuo%20dashboard.gif)
