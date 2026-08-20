@@ -32,3 +32,5 @@ Built entirely using *Microsoft Excel (Pivot Tables & Pivot Charts)*, the dashbo
 * *Pivot Tables & Pivot Charts:* Aggregating data and building dynamic visual components.
 * *Excel Slicers:* Interactive filtering for a user-friendly analytical experience.
 *
+## Dashboard Preview
+ [Misuo Sales Dashboard](misuo-dashboard.gif)
